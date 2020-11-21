@@ -1,8 +1,6 @@
-### Hi there, I'm Abdulfetah   👋
+### Hi there, I'm Abdulfetah 👋
 
-
-### Connect with me: 
-
+### Connect with me:
 
 <a href="https://t.me/ME_878">
   <img width="32" align="left"
@@ -16,27 +14,24 @@
      src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
 </a>
 
-
 <a href="https://www.instagram.com/abdulfetah_jemal">
   <img width="32" align="left"
      alt="My Instagram profile"
      src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">
 </a>
 
- 
 <br />
 
 ### Languages and Tools:
-
 
 <img align="left" alt="Angular " width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 
 <img align="left" alt="Flutter " width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
 
-
-
 <img align="left" alt="Csharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 
+<img align="left" alt="Visual Studio Code" width="26px" src="
+https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
@@ -69,7 +64,6 @@
 <br />
 
 ---
-
 
 <details>
   <summary>:zap: GitHub Stats</summary>
