@@ -1,4 +1,3 @@
-<h1 style="color:blue;text-align:center;">This is a heading</h1>
 ### Hi there, I'm Abdulfetah   👋
 
 
