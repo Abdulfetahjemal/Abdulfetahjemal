@@ -1,68 +1,38 @@
-### Hi there, I'm Abdulfetah 👋
+## Hi, I'm Abdulfetah Jemal 👋
 
-### Connect with me:
+Full Stack Developer at **[Codepoint Creatives](https://codepointcreatives.com)**, a software development company based in Addis Ababa, Ethiopia. I build business software, ERP systems and mobile apps, with a focus on the Frappe / ERPNext ecosystem.
 
-<a href="https://t.me/ME_878">
-  <img width="32" align="left"
-     alt="My Instagram profile"
-     src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg">
-</a>
+### What I work on
 
-<a href="https://t.me/ME_878">
-  <img width="32" align="left"
-     alt="My Linkedin profile"
-     src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
-</a>
+- **ERP & business systems**: custom Frappe / ERPNext apps for manufacturing, operations and finance
+- **AI-assisted development**: tooling that brings LLMs into the Frappe developer workflow
+- **Web & mobile apps**: full-stack web platforms and cross-platform mobile apps for clients
 
-<a href="https://www.instagram.com/abdulfetah_jemal">
-  <img width="32" align="left"
-     alt="My Instagram profile"
-     src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">
-</a>
+### Featured projects
 
-<br />
+| Project | Description | Stack |
+|---|---|---|
+| [Frappe AI Studio](https://github.com/Abdulfetahjemal/frappe_ai_studio) | AI developer agent for the Frappe Framework: create DocTypes, write code and customize apps in plain English, with git-safe rollbacks and multi-provider LLM support | Python, Frappe, LLMs |
+| [FMS for ERPNext](https://github.com/Abdulfetahjemal/FMS-ERPNEXT) | Factory Management System app for small and medium manufacturers, built on ERPNext | Python, Frappe, ERPNext |
 
-### Languages and Tools:
+### Tech stack
 
-<img align="left" alt="Angular " width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Frappe](https://img.shields.io/badge/Frappe-0089FF?style=flat&logo=frappe&logoColor=white)
+![ERPNext](https://img.shields.io/badge/ERPNext-0089FF?style=flat&logo=erpnext&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-<img align="left" alt="Flutter " width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
+### Get in touch
 
-<img align="left" alt="Csharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
+[![Website](https://img.shields.io/badge/codepointcreatives.com-111111?style=flat&logo=googlechrome&logoColor=white)](https://codepointcreatives.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/ME_878)
 
-<img align="left" alt="Bootstrao" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<img align="left" alt="tailwind" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
-
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-
-<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-<img align="left" alt="asp" width="26px" src="https://user-images.githubusercontent.com/32792371/113138272-3fb66100-922e-11eb-8523-8c89181abd74.png" />
- 
-<br />
-<br />
-
----
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=abdulfetahjemal&show_icons=true&hide_border=true" />
-
-</details>
+📍 Addis Ababa, Ethiopia · Open to collaborations on ERP, business software and AI tooling
