@@ -8,12 +8,11 @@ Full Stack Developer at **[Codepoint Creatives](https://codepointcreatives.com)*
 - **AI-assisted development**: tooling that brings LLMs into the Frappe developer workflow
 - **Web & mobile apps**: full-stack web platforms and cross-platform mobile apps for clients
 
-### Featured projects
+### Featured project
 
-| Project | Description | Stack |
-|---|---|---|
-| [Frappe AI Studio](https://github.com/Abdulfetahjemal/frappe_ai_studio) | AI developer agent for the Frappe Framework: create DocTypes, write code and customize apps in plain English, with git-safe rollbacks and multi-provider LLM support | Python, Frappe, LLMs |
-| [FMS for ERPNext](https://github.com/Abdulfetahjemal/FMS-ERPNEXT) | Factory Management System app for small and medium manufacturers, built on ERPNext | Python, Frappe, ERPNext |
+**[Frappe AI Studio](https://github.com/Abdulfetahjemal/frappe_ai_studio)**: an AI developer agent for the Frappe Framework. Describe what you need in plain English and it creates DocTypes, writes controllers and scripts, and customizes ERPNext safely, with automatic git snapshots, one-click rollback and support for a dozen LLM providers.
+
+Most of my client work (ERP systems, factory management, e-commerce and mobile apps) lives in private repositories.
 
 ### Tech stack
 
